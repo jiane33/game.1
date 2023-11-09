@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33920.266
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数组实现三子棋_game1", "数组实现三子棋_game1.vcxproj", "{D68E2068-C84D-4CDE-A400-C155CD0889AB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "三子棋拷贝包", "..\三子棋拷贝包\三子棋拷贝包.vdproj", "{79820287-FAD4-4BF6-AD22-EEBA21AFEDBB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "三子棋小游戏", "..\三子棋小游戏\三子棋小游戏.vdproj", "{0B979A04-CFF4-495E-B912-5031648330C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D68E2068-C84D-4CDE-A400-C155CD0889AB}.Debug|x64.ActiveCfg = Debug|x64
+		{D68E2068-C84D-4CDE-A400-C155CD0889AB}.Debug|x64.Build.0 = Debug|x64
+		{D68E2068-C84D-4CDE-A400-C155CD0889AB}.Debug|x86.ActiveCfg = Debug|Win32
+		{D68E2068-C84D-4CDE-A400-C155CD0889AB}.Debug|x86.Build.0 = Debug|Win32
+		{D68E2068-C84D-4CDE-A400-C155CD0889AB}.Release|x64.ActiveCfg = Release|x64
+		{D68E2068-C84D-4CDE-A400-C155CD0889AB}.Release|x64.Build.0 = Release|x64
+		{D68E2068-C84D-4CDE-A400-C155CD0889AB}.Release|x86.ActiveCfg = Release|Win32
+		{D68E2068-C84D-4CDE-A400-C155CD0889AB}.Release|x86.Build.0 = Release|Win32
+		{79820287-FAD4-4BF6-AD22-EEBA21AFEDBB}.Debug|x64.ActiveCfg = Debug
+		{79820287-FAD4-4BF6-AD22-EEBA21AFEDBB}.Debug|x86.ActiveCfg = Debug
+		{79820287-FAD4-4BF6-AD22-EEBA21AFEDBB}.Release|x64.ActiveCfg = Release
+		{79820287-FAD4-4BF6-AD22-EEBA21AFEDBB}.Release|x86.ActiveCfg = Release
+		{0B979A04-CFF4-495E-B912-5031648330C3}.Debug|x64.ActiveCfg = Debug
+		{0B979A04-CFF4-495E-B912-5031648330C3}.Debug|x86.ActiveCfg = Debug
+		{0B979A04-CFF4-495E-B912-5031648330C3}.Release|x64.ActiveCfg = Release
+		{0B979A04-CFF4-495E-B912-5031648330C3}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {102AB038-483D-4D79-9EFF-D2E88B9C65A3}
+	EndGlobalSection
+EndGlobal
