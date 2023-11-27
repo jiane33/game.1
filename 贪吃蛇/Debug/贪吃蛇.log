@@ -1,0 +1,6 @@
+﻿  createFood.c
+  game.Rules.c
+C:\Users\nan\source\repos\贪吃蛇\game.Rules.c(41,10): warning C4101: “ch”: 未引用的局部变量
+  gameMap.c
+  正在生成代码...
+  贪吃蛇.vcxproj -> C:\Users\nan\source\repos\贪吃蛇\Debug\贪吃蛇.exe

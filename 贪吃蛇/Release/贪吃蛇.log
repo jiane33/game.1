@@ -1,0 +1,9 @@
+﻿  main.c
+C:\Users\nan\source\repos\贪吃蛇\main.c(11,11): warning C4013: “gameMenu”未定义；假设外部返回 int
+C:\Users\nan\source\repos\贪吃蛇\main.c(38,11): warning C4477: “scanf”: 格式字符串“%c”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+  正在生成代码
+  1 of 25 functions ( 4.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  贪吃蛇.vcxproj -> C:\Users\nan\source\repos\贪吃蛇\Release\贪吃蛇.exe
